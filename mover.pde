@@ -22,4 +22,3 @@ class Mover {
     y = y + random(-2, 2);
   }
 }
-}
